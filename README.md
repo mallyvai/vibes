@@ -1,2 +1,2 @@
 # vibes
-affirmations for your code. you work hard, you deserve nice things.
+affirmations for your CLI. you work hard. you deserve nice things.
